@@ -8,7 +8,7 @@ In that process I will need to improve disability access to the page but also to
 
 He has given me a small list of specific criteria to satisfy the project. These criteria are documented below in the "Acceptance Criteria" section.
 
-In this process I will have to follow the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
+In this process I will have to follow the "Scout Rule", which recommends that you always leave the code a little cleaner than when you found it.
 
 Where possible I will also need to try to impress the client by improving the code base for long-term sustainability. 
 
@@ -57,6 +57,14 @@ To submit my review and results I will need to assure the following requirements
 
 * The URL of the deployed application will be submitted in time
 
+## Deployment URL
+
+https://marcojansen-gmx.github.io/HTML-Git-CSS-01/index.html
+
 * The URL of the GitHub repository will need to be made available for the instructors review. 
+
+## GitHub URL
+
+https://github.com/marcojansen-gmx/HTML-Git-CSS-01.git
 
 The repository needs a unique name and needs to include a README describing the project.
