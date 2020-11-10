@@ -41,4 +41,4 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor screenshot (layout)](./Assets/01-html-css-git-homework-demo.png)
+![code refactor screenshot (layout)](https://github.com/marcojansen-gmx/HTML-Git-CSS-01/blob/main/Assets/01-html-css-git-homework-demo.png)
